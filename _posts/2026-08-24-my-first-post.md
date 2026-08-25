@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First (official) Post!"
+title: "CREATING THIS BLOG SHOULD HAVE NOT HAVE BEEN THIS HARD"
 date: 2026-08-24 21:06:00 -0700
 categories: misc
 ---
