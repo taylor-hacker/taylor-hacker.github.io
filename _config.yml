@@ -30,9 +30,16 @@ twitter_username: jekyllrb
 github_username:  taylor-hacker
 
 # Build settings
+#
+#
+# THEME
+
+remote_theme: pages-themes/hacker@v0.2.0
+
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
